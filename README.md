@@ -34,7 +34,7 @@ This project features a website divided into three main sections:
 The website consists of the following files:
 
 1. **Main File**:  
-   - `index.html`: The main file containing the structure and layout of the website.
+   - `week 2.html`: The main file containing the structure and layout of the website.
 
 2. **Linked Pages**:  
    - `home.html`: Displays the home page content.  
@@ -52,7 +52,7 @@ The website consists of the following files:
    - `sale.html`: Displays items on sale.
 
 4. **Assets**:  
-   - `images/logo.png`: The logo used in the header.
+   - `images.png`: The logo used in the header.
 
 ---
 
@@ -60,4 +60,4 @@ The website consists of the following files:
 
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/your-username/StyleFusion.git
+   git clone https://github.com/Himaja2304/StyleFusion.git
